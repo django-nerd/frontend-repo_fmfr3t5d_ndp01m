@@ -1,0 +1,51 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 285 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.8.219:3000/
+11:51:48 AM [vite] warning: The character ">" is not valid inside a JSX element
+31 |  
+32 |                <Tabs.Content value="transcript" className="mt-4 text-sm text-slate-700 dark:text-slate-300">
+33 |                  Rahul: Shipping plan: landing -> API -> demo. Sarah: Let’s track tasks in a shared board. Team: Agreed. ...
+   |                                                 ^
+34 |                </Tabs.Content>
+35 |  
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/MiniDashboard.jsx
+11:51:48 AM [vite] warning: The character ">" is not valid inside a JSX element
+31 |  
+32 |                <Tabs.Content value="transcript" className="mt-4 text-sm text-slate-700 dark:text-slate-300">
+33 |                  Rahul: Shipping plan: landing -> API -> demo. Sarah: Let’s track tasks in a shared board. Team: Agreed. ...
+   |                                                        ^
+34 |                </Tabs.Content>
+35 |  
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/MiniDashboard.jsx
+11:51:49 AM [vite] ✨ new dependencies optimized: lucide-react, @splinetool/react-spline, @radix-ui/react-tabs
+11:51:49 AM [vite] ✨ optimized dependencies changed. reloading
+11:51:50 AM [vite] warning: The character ">" is not valid inside a JSX element
+31 |  
+32 |                <Tabs.Content value="transcript" className="mt-4 text-sm text-slate-700 dark:text-slate-300">
+33 |                  Rahul: Shipping plan: landing -> API -> demo. Sarah: Let’s track tasks in a shared board. Team: Agreed. ...
+   |                                                 ^
+34 |                </Tabs.Content>
+35 |  
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/MiniDashboard.jsx
+11:51:50 AM [vite] warning: The character ">" is not valid inside a JSX element
+31 |  
+32 |                <Tabs.Content value="transcript" className="mt-4 text-sm text-slate-700 dark:text-slate-300">
+33 |                  Rahul: Shipping plan: landing -> API -> demo. Sarah: Let’s track tasks in a shared board. Team: Agreed. ...
+   |                                                        ^
+34 |                </Tabs.Content>
+35 |  
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/MiniDashboard.jsx
